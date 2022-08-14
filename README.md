@@ -19,20 +19,20 @@ Arrays & Vectors
 3. Length of last word of a string  :  https://leetcode.com/problems/length-of-last-word/
 
 4. 3sum(two pointer based approach) : https://leetcode.com/problems/3sum/
-   ,br>// how to use 2 pointer approach 
+   <br>// how to use 2 pointer approach 
    <br>-> first sort the array 
-   -> start from , for(int i=0; i<size-2; i++) 
-   -> int j = i+1;
-   -> int k= n-1;
-   -> while(j<k){
-   	int cur_sum = first element;
-	if(){
-		j++;
-		k--;
-		}
-	else (cur_sum>target) k--;
-	else j++;
-   	}
+   <br>-> start from , for(int i=0; i<size-2; i++) 
+   <br>-> int j = i+1;
+   <br>-> int k= n-1;
+   <br>-> while(j<k){
+   	<br>int cur_sum = first element;
+	<br>if(){
+		<br>j++;
+		<br>k--;
+		<br>}
+	<br>else (cur_sum>target) k--;
+	<br>else j++;
+   	<br>}
    
    
 
