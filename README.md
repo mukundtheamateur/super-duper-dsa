@@ -34,6 +34,6 @@ Arrays & Vectors
 	<br>else j++;
    	<br>}
 	
-5. Mountain problem : https://leetcode.com/problems/longest-mountain-in-array/
+5. Mountain problem (based on forward and backward movement in an array) : https://leetcode.com/problems/longest-mountain-in-array/
    
 
