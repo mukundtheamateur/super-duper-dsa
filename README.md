@@ -16,5 +16,5 @@ Arrays & Vectors
 
 	SOL: IN REPO /Array
 	
-3. Length of last word of a string  :  https://leetcode.com/problems/length-of-last-word/![image](https://user-images.githubusercontent.com/61543246/184537802-add52c20-41bf-490b-9a2c-610d1f77f529.png)
+3. Length of last word of a string  :  https://leetcode.com/problems/length-of-last-word/
 
