@@ -14,7 +14,7 @@ Arrays & Vectors
 	Find all distinct integers that can add up to form target sum. The numbers in each triplet should be ordered in ascending order, and triplets should be ordered too. 	
 	Return empty array if no such triplet exists.
 
-	SOL: IN REPO /Array
+	SOL: IN REPO /Array/triplets.cpp
 	
 3. Length of last word of a string  :  https://leetcode.com/problems/length-of-last-word/
 
