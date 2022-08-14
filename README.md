@@ -18,7 +18,7 @@ Arrays & Vectors
 	
 3. Length of last word of a string  :  https://leetcode.com/problems/length-of-last-word/
 
-4. 3sum(two pointer based approach) : https://leetcode.com/problems/3sum/
+4. 3sum(based on two pointer approach and set STL) : https://leetcode.com/problems/3sum/
    <br>// how to use 2 pointer approach 
    <br>-> first sort the array 
    <br>-> start from , for(int i=0; i<size-2; i++) 
