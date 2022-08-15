@@ -38,6 +38,8 @@ Arrays & Vectors
 
 6. Longest consecutive sequence (using unordered set ) : https://leetcode.com/problems/longest-consecutive-sequence/
 
+7. Rain water harvesting problem (using two different array left and right array and find the minimum - height ) : https://leetcode.com/problems/trapping-rain-water/
+
 
    
 
